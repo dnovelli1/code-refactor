@@ -6,12 +6,18 @@
 
 body {
     background-color: #d9dcd6;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
+    background-size: auto;
     color: #ffffff;
 }
 
@@ -37,6 +43,8 @@ body {
 }
 
 .header nav ul li {
+    display: flex;
+    flex-wrap: wrap;
     display: inline-block;
     margin-left: 10px;
 }
@@ -197,10 +205,4 @@ p {
 
 .footer h2 {
     font-size: 20px;
-}
-
-@media screen and (max-width: 950px) {
-    .header { width: 100%; 
-    }
-
 }
