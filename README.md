@@ -1,3 +1,1 @@
-# code-refactor
-In this activity I was given the code of a website that needed to be cleaned up and made more legible for people to read easier. I started by spacing out the code and addding semantics to replace some of the non semantic code. After replacing these, I scrolled through the code noticiing smaller malfunctions with links and no alt's for the images. After adding that, I made some minor adjustments to the style.css in order for the style to take effect on the website. I worked through some tough tasks that required some research and reaching out to my classmates. But overall I'm proud of the project it turned out to be.
-Here is the link to the website: https://dnovelli1.github.io/code-refactor/
+
