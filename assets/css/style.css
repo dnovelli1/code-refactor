@@ -87,22 +87,26 @@ p {
     background-color: #2589bd;
 }
 
+/** Condensed the 3 to reduce space used **/
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/** Condensed the 3 to eliminate space not needed**/
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Condensed the 3 to reduce space used */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Condensed the 3 open space needed */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -112,11 +116,13 @@ p {
     color: #ffffff;
 }
 
+/* Condensed all img's to reduce space used */
 .online-reputation-management img, .social-media-marketing img, .search-engine-optimization img
  {
     max-height: 200px;
 }
 
+/* Condensed all 3 h2's in order to eliminate unneeded code */
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
