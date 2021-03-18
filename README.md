@@ -14,3 +14,24 @@
 ## Site Preview
 
 ![Site](assets/images/website-preview.png)
+
+## Here's an example of how this website was made!
+'''html
+<div class="hero"></div>
+   
+    <section class="content">
+    
+      <section id="search-engine-optimization" class="search-engine-optimization">
+          <img src="./assets/images/search-engine-optimization.jpg" alt="Picture of a brainstorm cloud containing SEO and branching off what goes into it" class="float-left">
+      
+          <h2>Search Engine Optimization</h2>
+      
+        <p> 
+          The dominance of mobile internet use means that users are searching for the right business as they travel, shop,
+          or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find
+          the right customers for your business.
+        </p>
+    
+      </section>  
+
+## Did the preview intrigue you? Click the link below to see the whole site!
