@@ -35,3 +35,5 @@
       </section>  
 
 ## Did the preview intrigue you? Click the link below to see the whole site!
+
+![Full-Site][https://dnovelli1.github.io/code-refactor/]
