@@ -36,10 +36,10 @@
 
 ## Did the preview intrigue you? Click the link below to see the whole site!
 
-![Full-Site][https://dnovelli1.github.io/code-refactor/]
+[Full-Site](https://dnovelli1.github.io/code-refactor/)
 
 ## Links to my Professional Site's.
 
-![LinkedIn][https://www.linkedin.com/in/david-jacob-novelli/]
+[LinkedIn](https://www.linkedin.com/in/david-jacob-novelli/)
 
-![GitHub][https://github.com/dnovelli1]
+[GitHub](https://github.com/dnovelli1)
