@@ -40,5 +40,5 @@
 
 ## Links to my Professional Site's
 
-![Linked-In](https://www.linkedin.com/in/david-novelli-4b5623120/)
+![LinkedIn](https://www.linkedin.com/in/david-novelli-4b5623120/)
 ![GitHub](https://github.com/dnovelli1)
