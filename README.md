@@ -41,4 +41,5 @@
 ## Links to my Professional Site's.
 
 ![LinkedIn][https://www.linkedin.com/in/david-jacob-novelli/]
+
 ![GitHub][https://github.com/dnovelli1]
