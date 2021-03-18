@@ -37,3 +37,8 @@
 ## Did the preview intrigue you? Click the link below to see the whole site!
 
 ![Full-Site][https://dnovelli1.github.io/code-refactor/]
+
+## Links to my Professional Site's
+
+![Linked-In](https://www.linkedin.com/in/david-novelli-4b5623120/)
+![GitHub](https://github.com/dnovelli1)
