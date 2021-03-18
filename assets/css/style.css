@@ -10,8 +10,6 @@ body {
 }
 
 .header {
-    display: flex;
-    flex-wrap: wrap;
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -40,9 +38,6 @@ body {
 }
 
 .header nav ul li {
-
-    display: flex;
-    flex-wrap: wrap;
     display: inline-block;
     margin-left: 10px;
 }
@@ -135,6 +130,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
