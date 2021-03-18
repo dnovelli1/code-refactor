@@ -13,4 +13,4 @@
 
 ## Site Preview
 
-![Site](https://photos.app.goo.gl/XLQqzCj9bxBKbR6d8)
+![Site](assets/images/website-preview.png)
